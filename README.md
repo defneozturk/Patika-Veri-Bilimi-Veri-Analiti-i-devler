@@ -1,1 +1,1 @@
-# Patika-Veri-Bilimi-Veri-Analiti-i-devler
+# Patika-Veri-Bilimi-Veri-Analitigi-Odevler
